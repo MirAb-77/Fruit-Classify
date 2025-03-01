@@ -82,7 +82,7 @@ model.compile(loss='categorical_crossentropy', optimizer='adam', metrics=['accur
 
 ### Accuracy Graphs:
 #### Training and Validation Accuracy
-![Accuracies](<img width="302" alt="image" src="https://github.com/user-attachments/assets/d10bc160-626c-477d-8fb0-746bbcf331e3" />
+(<img width="302" alt="image" src="https://github.com/user-attachments/assets/d10bc160-626c-477d-8fb0-746bbcf331e3" />
 )
 
 #### Training and Validation Loss
@@ -101,8 +101,8 @@ The web app is developed using **Streamlit** with a modern gradient UI featuring
 - Custom CSS Styling
 
 ### Web App Preview:
-![Web App](<img width="431" alt="image" src="https://github.com/user-attachments/assets/71c7b03d-ec1e-4bcd-a11f-888cae737065" />
-)
+<img width="946" alt="image" src="https://github.com/user-attachments/assets/3f8ad1db-bd1b-4362-97be-474266563efb" />
+
 
 ---
 
