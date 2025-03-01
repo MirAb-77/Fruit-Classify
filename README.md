@@ -82,10 +82,12 @@ model.compile(loss='categorical_crossentropy', optimizer='adam', metrics=['accur
 
 ### Accuracy Graphs:
 #### Training and Validation Accuracy
-![Training Accuracy](./assets/training_accuracy.png)
+![Accuracies](<img width="302" alt="image" src="https://github.com/user-attachments/assets/d10bc160-626c-477d-8fb0-746bbcf331e3" />
+)
 
 #### Training and Validation Loss
-![Training Loss](./assets/training_loss.png)
+![Losses](<img width="345" alt="image" src="https://github.com/user-attachments/assets/856197a1-f55e-4d04-b79d-7618ba2419ac" />
+)
 
 ---
 
@@ -99,23 +101,22 @@ The web app is developed using **Streamlit** with a modern gradient UI featuring
 - Custom CSS Styling
 
 ### Web App Preview:
-![Web App](./assets/web_app.png)
+![Web App](<img width="431" alt="image" src="https://github.com/user-attachments/assets/71c7b03d-ec1e-4bcd-a11f-888cae737065" />
+)
 
 ---
 
 ## 🎯 Results
 | Metric                 | Value       |
 |-----------------------|-------------|
-| Training Accuracy      | **98.2%**   |
-| Validation Accuracy    | **95.6%**   |
-| Test Accuracy         | **94.8%**   |
+| Test Accuracy         | **86.8%**   |
 
 ### Sample Predictions:
 | Fruit Image           | Predicted Label | Confidence Score |
 |-----------------------|----------------|-----------------|
-| 🍎 Apple              | Apple         | 99.1%          |
-| 🍌 Banana             | Banana        | 98.3%          |
-| 🍉 Watermelon         | Watermelon    | 97.6%          |
+| 🍎 Apple              | Apple         | 89.1%          |
+| 🍌 Banana             | Banana        | 78.3%          |
+| 🍉 Watermelon         | Watermelon    | 82.6%          |
 
 ---
 
