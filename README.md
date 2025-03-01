@@ -86,7 +86,7 @@ model.compile(loss='categorical_crossentropy', optimizer='adam', metrics=['accur
 )
 
 #### Training and Validation Loss
-![Losses](<img width="345" alt="image" src="https://github.com/user-attachments/assets/856197a1-f55e-4d04-b79d-7618ba2419ac" />
+(<img width="345" alt="image" src="https://github.com/user-attachments/assets/856197a1-f55e-4d04-b79d-7618ba2419ac" />
 )
 
 ---
